@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi,
 
-<!--
-**bhch/bhch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bharat Chauhan.
 
-Here are some ideas to get you started:
+ - I'm **currently** working on a **domain registration** service which **doesn't suck**.  
+   You can find it here: [butterdomains.com][1].  
+   **Sign up for Beta** if you like it.
+ - I post tutorials related to Python and Django on [**my blog**][2].
+ - I'm active on [Stack Overflow as user xyres][3].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[1]: https://www.butterdomains.com/?utm_source=github
+[2]: https://bhch.githib.io
+[3]: https://stackoverflow.com/users/1925257/xyres
