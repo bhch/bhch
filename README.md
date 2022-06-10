@@ -6,15 +6,6 @@ Your average programmer.
 
 ---
 
-If you've found my work useful, and if you wish to support me you can:
-
-<a href="https://www.buymeacoffee.com/bhch">
-    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" width="170">
-</a>
-
-
----
-
 *Life is short and hard like a bodybuilding elf.* &mdash; Jimmy Pop.
 
 [1]: https://www.butterdomains.com/?utm_source=github
